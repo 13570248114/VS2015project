@@ -1,0 +1,5 @@
+﻿  Prior.cpp
+e:\project\vs2015_project\prior\prior\prior.cpp(14): error C3867: “Prior::cmp”: 非标准语法；请使用 "&" 来创建指向成员的指针
+e:\project\vs2015_project\prior\prior\prior.cpp(14): error C2672: “sort”: 未找到匹配的重载函数
+e:\project\vs2015_project\prior\prior\prior.cpp(14): error C2780: “void std::sort(_RanIt,_RanIt)”: 应输入 2 个参数，却提供了 3 个
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\algorithm(2789): note: 参见“std::sort”的声明

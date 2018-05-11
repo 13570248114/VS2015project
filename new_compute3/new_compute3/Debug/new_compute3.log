@@ -1,0 +1,5 @@
+﻿  new_compute3.cpp
+e:\project\vs2015_project\new_compute3\new_compute3\new_compute3.cpp(64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\new_compute3\new_compute3\new_compute3.cpp(151): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  new_compute3.vcxproj -> E:\project\VS2015_project\new_compute3\Debug\new_compute3.exe
+  new_compute3.vcxproj -> E:\project\VS2015_project\new_compute3\Debug\new_compute3.pdb (Full PDB)

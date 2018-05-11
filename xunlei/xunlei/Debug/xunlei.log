@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\project\vs2015_project\xunlei\xunlei\main.cpp(52): warning C4715: “combine”: 不是所有的控件路径都返回值
+  xunlei.vcxproj -> E:\project\VS2015_project\xunlei\Debug\xunlei.exe
+  xunlei.vcxproj -> E:\project\VS2015_project\xunlei\Debug\xunlei.pdb (Full PDB)

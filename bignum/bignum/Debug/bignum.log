@@ -1,0 +1,6 @@
+﻿  bignum.cpp
+e:\project\vs2015_project\bignum\bignum\bignum.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\bignum\bignum\bignum.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\bignum\bignum\bignum.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+  bignum.vcxproj -> E:\project\VS2015_project\bignum\Debug\bignum.exe
+  bignum.vcxproj -> E:\project\VS2015_project\bignum\Debug\bignum.pdb (Full PDB)

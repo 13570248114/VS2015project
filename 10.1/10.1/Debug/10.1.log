@@ -1,0 +1,24 @@
+﻿  10.1.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(30): note: 参见对正在编译的函数 模板 实例化“_Ty std::_Accumulate_unchecked<const double*,_Ty,_Fn2>(_InIt,_InIt,_Ty,_Fn2 &)”的引用
+          with
+          [
+              _Ty=int,
+              _Fn2=std::plus<void>,
+              _InIt=const double *
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\numeric(38): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(_InIt,_InIt,_Ty,_Fn2)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn2=std::plus<void>
+          ]
+  e:\project\vs2015_project\10.1\10.1\10.1.cpp(32): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(_InIt,_InIt,_Ty)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  10.1.vcxproj -> E:\project\VS2015_project\10.1\Debug\10.1.exe
+  10.1.vcxproj -> E:\project\VS2015_project\10.1\Debug\10.1.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿1>------ 已启动生成: 项目: new_comute2, 配置: Debug Win32 ------
+1>  new_comute2.cpp
+1>e:\project\vs2015_project\new_comute2\new_comute2\new_comute2.cpp(53): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+1>e:\project\vs2015_project\new_comute2\new_comute2\new_comute2.cpp(137): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+1>  new_comute2.vcxproj -> E:\project\VS2015_project\new_comute2\Debug\new_comute2.exe
+1>  new_comute2.vcxproj -> E:\project\VS2015_project\new_comute2\Debug\new_comute2.pdb (Full PDB)
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========

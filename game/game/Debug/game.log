@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Minesweeper.cpp
+e:\project\vs2015_project\game\game\minesweeper.cpp(36): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\project\vs2015_project\game\game\minesweeper.cpp(206): warning C4305: “参数”: 从“int”到“bool”截断
+e:\project\vs2015_project\game\game\minesweeper.cpp(213): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\project\vs2015_project\game\game\minesweeper.cpp(237): warning C4305: “参数”: 从“int”到“bool”截断
+e:\project\vs2015_project\game\game\minesweeper.cpp(232): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\project\vs2015_project\game\game\minesweeper.cpp(245): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\project\vs2015_project\game\game\minesweeper.cpp(292): warning C4305: “参数”: 从“int”到“bool”截断
+  正在生成代码...
+  game.vcxproj -> E:\project\VS2015_project\game\Debug\game.exe
+  game.vcxproj -> E:\project\VS2015_project\game\Debug\game.pdb (Full PDB)

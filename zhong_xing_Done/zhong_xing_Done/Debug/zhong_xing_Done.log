@@ -1,0 +1,5 @@
+﻿  zhong_xing_Done.cpp
+e:\project\vs2015_project\zhong_xing_done\zhong_xing_done\zhong_xing_done.cpp(79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\zhong_xing_done\zhong_xing_done\zhong_xing_done.cpp(194): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  zhong_xing_Done.vcxproj -> E:\project\VS2015_project\zhong_xing_Done\Debug\zhong_xing_Done.exe
+  zhong_xing_Done.vcxproj -> E:\project\VS2015_project\zhong_xing_Done\Debug\zhong_xing_Done.pdb (Full PDB)

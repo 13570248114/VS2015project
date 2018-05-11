@@ -1,0 +1,4 @@
+﻿  partion.cpp
+e:\project\vs2015_project\partion\partion\partion.cpp(19): warning C4018: “>=”: 有符号/无符号不匹配
+  partion.vcxproj -> E:\project\VS2015_project\partion\Debug\partion.exe
+  partion.vcxproj -> E:\project\VS2015_project\partion\Debug\partion.pdb (Full PDB)

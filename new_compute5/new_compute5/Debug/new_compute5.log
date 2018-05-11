@@ -1,0 +1,6 @@
+﻿  new_compute5.cpp
+e:\project\vs2015_project\new_compute5\new_compute5\new_compute5.cpp(67): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\new_compute5\new_compute5\new_compute5.cpp(154): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\new_compute5\new_compute5\new_compute5.cpp(398): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+  new_compute5.vcxproj -> E:\project\VS2015_project\new_compute5\Debug\new_compute5.exe
+  new_compute5.vcxproj -> E:\project\VS2015_project\new_compute5\Debug\new_compute5.pdb (Full PDB)

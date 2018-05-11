@@ -1,0 +1,9 @@
+﻿  del.c
+e:\project\vs2015_project\book_sell_sys\book_sell_sys\del.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\project\vs2015_project\book_sell_sys\book_sell_sys\del.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\project\vs2015_project\book_sell_sys\book_sell_sys\del.c(39): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  book_sell_sys.vcxproj -> E:\project\VS2015_project\book_sell_sys\Debug\book_sell_sys.exe
+  book_sell_sys.vcxproj -> E:\project\VS2015_project\book_sell_sys\Debug\book_sell_sys.pdb (Full PDB)

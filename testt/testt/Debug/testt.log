@@ -1,0 +1,6 @@
+﻿  testt.cpp
+e:\project\vs2015_project\testt\testt\testt.cpp(77): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\testt\testt\testt.cpp(139): warning C4129: “D”: 不可识别的字符转义序列
+e:\project\vs2015_project\testt\testt\testt.cpp(185): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  testt.vcxproj -> E:\project\VS2015_project\testt\Debug\testt.exe
+  testt.vcxproj -> E:\project\VS2015_project\testt\Debug\testt.pdb (Full PDB)

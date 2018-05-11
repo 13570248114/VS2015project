@@ -1,0 +1,5 @@
+﻿  set.cpp
+e:\project\vs2015_project\multiset\multiset\set.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\multiset\multiset\set.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  multiset.vcxproj -> E:\project\VS2015_project\multiset\Debug\multiset.exe
+  multiset.vcxproj -> E:\project\VS2015_project\multiset\Debug\multiset.pdb (Full PDB)

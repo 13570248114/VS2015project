@@ -1,0 +1,4 @@
+﻿  Replacement.cpp
+e:\project\vs2015_project\replacement\replacement\replacement.cpp(76): warning C4101: “r”: 未引用的局部变量
+  Replacement.vcxproj -> E:\project\VS2015_project\Replacement\Debug\Replacement.exe
+  Replacement.vcxproj -> E:\project\VS2015_project\Replacement\Debug\Replacement.pdb (Full PDB)

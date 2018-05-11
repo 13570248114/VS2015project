@@ -1,0 +1,7 @@
+﻿  jing22.cpp
+e:\project\vs2015_project\jing22\jing22\jing22.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\project\vs2015_project\jing22\jing22\jing22.cpp(23): warning C4018: “<=”: 有符号/无符号不匹配
+e:\project\vs2015_project\jing22\jing22\jing22.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\jing22\jing22\jing22.cpp(47): warning C4018: “<=”: 有符号/无符号不匹配
+  jing22.vcxproj -> E:\project\VS2015_project\jing22\Debug\jing22.exe
+  jing22.vcxproj -> E:\project\VS2015_project\jing22\Debug\jing22.pdb (Full PDB)

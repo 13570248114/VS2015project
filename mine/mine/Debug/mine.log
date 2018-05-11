@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\project\vs2015_project\mine\mine\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  mine.vcxproj -> E:\project\VS2015_project\mine\Debug\mine.exe
+  mine.vcxproj -> E:\project\VS2015_project\mine\Debug\mine.pdb (Full PDB)

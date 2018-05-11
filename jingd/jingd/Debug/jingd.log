@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\project\vs2015_project\jingd\jingd\main.cpp(69): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  jingd.vcxproj -> E:\project\VS2015_project\jingd\Debug\jingd.exe
+  jingd.vcxproj -> E:\project\VS2015_project\jingd\Debug\jingd.pdb (Full PDB)

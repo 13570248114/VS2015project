@@ -1,0 +1,4 @@
+﻿  Game.cpp
+e:\project\vs2015_project\go_fish\go_fish\game.cpp(76): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Go_Fish.vcxproj -> E:\project\VS2015_project\Go_Fish\Debug\Go_Fish.exe
+  Go_Fish.vcxproj -> E:\project\VS2015_project\Go_Fish\Debug\Go_Fish.pdb (Full PDB)

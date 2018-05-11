@@ -1,0 +1,4 @@
+﻿  tuopu.cpp
+e:\project\vs2015_project\tuopu\tuopu\tuopu.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+  tuopu.vcxproj -> E:\project\VS2015_project\tuopu\Debug\tuopu.exe
+  tuopu.vcxproj -> E:\project\VS2015_project\tuopu\Debug\tuopu.pdb (Full PDB)

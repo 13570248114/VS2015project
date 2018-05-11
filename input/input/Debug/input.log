@@ -1,0 +1,5 @@
+﻿  input.cpp
+e:\project\vs2015_project\input\input\input.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\input\input\input.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  input.vcxproj -> E:\project\VS2015_project\input\Debug\input.exe
+  input.vcxproj -> E:\project\VS2015_project\input\Debug\input.pdb (Full PDB)

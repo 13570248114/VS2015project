@@ -1,0 +1,14 @@
+﻿  Testmain.c
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(23): warning C4013: “exit”未定义；假设外部返回 int
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(32): warning C4013: “malloc”未定义；假设外部返回 int
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(49): warning C4013: “free”未定义；假设外部返回 int
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(45): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(46): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(68): warning C4013: “srand”未定义；假设外部返回 int
+e:\project\vs2015_project\lvxingshang\lvxingshang\testmain.c(72): warning C4013: “rand”未定义；假设外部返回 int
+  lvxingshang.vcxproj -> E:\project\VS2015_project\lvxingshang\Debug\lvxingshang.exe
+  lvxingshang.vcxproj -> E:\project\VS2015_project\lvxingshang\Debug\lvxingshang.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  StockProgram.c
+e:\project\vs2015_project\chartlins\chartlins\stockprogram.c(34): warning C4013: “free”未定义；假设外部返回 int
+  Chartlins.vcxproj -> E:\project\VS2015_project\Chartlins\Debug\Chartlins.exe
+  Chartlins.vcxproj -> E:\project\VS2015_project\Chartlins\Debug\Chartlins.pdb (Full PDB)

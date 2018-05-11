@@ -1,0 +1,4 @@
+﻿  ScaleSort.cpp
+e:\project\vs2015_project\scalesort\scalesort\scalesort.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+  ScaleSort.vcxproj -> E:\project\VS2015_project\ScaleSort\Debug\ScaleSort.exe
+  ScaleSort.vcxproj -> E:\project\VS2015_project\ScaleSort\Debug\ScaleSort.pdb (Full PDB)

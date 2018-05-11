@@ -1,0 +1,5 @@
+﻿  33.cpp
+e:\project\vs2015_project\33\33\33.cpp(43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\33\33\33.cpp(46): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  33.vcxproj -> E:\project\VS2015_project\33\Debug\33.exe
+  33.vcxproj -> E:\project\VS2015_project\33\Debug\33.pdb (Full PDB)

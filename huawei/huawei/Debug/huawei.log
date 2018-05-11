@@ -1,0 +1,7 @@
+﻿  s1.cpp
+e:\project\vs2015_project\huawei\huawei\s1.cpp(43): warning C4552: “>>”: 运算符不起任何作用；应输入带副作用的运算符
+e:\project\vs2015_project\huawei\huawei\s1.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\huawei\huawei\s1.cpp(50): warning C4244: “+=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\project\vs2015_project\huawei\huawei\s1.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+  huawei.vcxproj -> E:\project\VS2015_project\huawei\Debug\huawei.exe
+  huawei.vcxproj -> E:\project\VS2015_project\huawei\Debug\huawei.pdb (Full PDB)

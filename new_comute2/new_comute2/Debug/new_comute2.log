@@ -1,0 +1,5 @@
+﻿  new_comute2.cpp
+e:\project\vs2015_project\new_comute2\new_comute2\new_comute2.cpp(55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\new_comute2\new_comute2\new_comute2.cpp(139): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  new_comute2.vcxproj -> E:\project\VS2015_project\new_comute2\Debug\new_comute2.exe
+  new_comute2.vcxproj -> E:\project\VS2015_project\new_comute2\Debug\new_comute2.pdb (Full PDB)

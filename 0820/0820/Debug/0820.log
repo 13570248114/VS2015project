@@ -1,0 +1,5 @@
+﻿  s1.cpp
+e:\project\vs2015_project\0820\0820\s1.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+e:\project\vs2015_project\0820\0820\s1.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+  0820.vcxproj -> E:\project\VS2015_project\0820\Debug\0820.exe
+  0820.vcxproj -> E:\project\VS2015_project\0820\Debug\0820.pdb (Full PDB)

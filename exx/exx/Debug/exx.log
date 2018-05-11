@@ -1,0 +1,8 @@
+﻿  ex2.cpp
+e:\project\vs2015_project\exx\exx\student.h(31): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\project\vs2015_project\exx\exx\student.h(32): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\project\vs2015_project\exx\exx\student.h(33): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\project\vs2015_project\exx\exx\student.h(34): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+e:\project\vs2015_project\exx\exx\ex2.cpp(102): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  exx.vcxproj -> E:\project\VS2015_project\exx\Debug\exx.exe
+  exx.vcxproj -> E:\project\VS2015_project\exx\Debug\exx.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  check.c
+e:\project\vs2015_project\pll\pll\check.c(13): warning C4101: “isrun”: 未引用的局部变量
+  pll.vcxproj -> E:\project\VS2015_project\pll\Debug\pll.exe
+  pll.vcxproj -> E:\project\VS2015_project\pll\Debug\pll.pdb (Full PDB)

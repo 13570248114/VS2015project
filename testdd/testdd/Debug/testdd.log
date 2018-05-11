@@ -1,0 +1,7 @@
+﻿  testdd.cpp
+e:\project\vs2015_project\testdd\testdd\testdd.cpp(73): error C2440: “初始化”: 无法从“void *”转换为“char *”
+  e:\project\vs2015_project\testdd\testdd\testdd.cpp(73): note: 从“void*”到指向非“void”的指针的转换要求显式类型转换
+e:\project\vs2015_project\testdd\testdd\testdd.cpp(68): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\project\vs2015_project\testdd\testdd\testdd.cpp(74): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明

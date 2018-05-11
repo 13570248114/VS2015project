@@ -1,0 +1,4 @@
+﻿  school.cpp
+e:\project\vs2015_project\jiajian\jiajian\school.cpp(43): warning C4552: “/”: 运算符不起任何作用；应输入带副作用的运算符
+  jiajian.vcxproj -> E:\project\VS2015_project\jiajian\Debug\jiajian.exe
+  jiajian.vcxproj -> E:\project\VS2015_project\jiajian\Debug\jiajian.pdb (Full PDB)

@@ -1,0 +1,5 @@
+1	t	tt	ttt	47
+2	lin	lin	lin	70
+3	o	oo	ooo	10
+4	yu	yu	yu	78
+5	r	rr	rrr	50

@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+e:\project\vs2015_project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\vs2015_project\consoleapplication1\consoleapplication1\consoleapplication1.cpp(87): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> E:\project\VS2015_project\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\project\VS2015_project\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

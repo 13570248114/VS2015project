@@ -1,0 +1,67 @@
+﻿  7.1.2.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(737): error C2512: “noDefault::noDefault”: 没有合适的默认构造函数可用
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<_Objty,>(_Objty *)”的引用
+          with
+          [
+              _Ty=noDefault,
+              _Objty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(857): note: 参见对正在编译的函数 模板 实例化“void std::allocator<_Ty>::construct<_Objty,>(_Objty *)”的引用
+          with
+          [
+              _Ty=noDefault,
+              _Objty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: 参见对正在编译的函数 模板 实例化“void std::allocator_traits<_Alloc>::construct<_Ty,>(std::allocator<_Ty> &,_Objty *)”的引用
+          with
+          [
+              _Alloc=std::allocator<noDefault>,
+              _Ty=noDefault,
+              _Objty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: 参见对正在编译的函数 模板 实例化“void std::allocator_traits<_Alloc>::construct<_Ty,>(std::allocator<_Ty> &,_Objty *)”的引用
+          with
+          [
+              _Alloc=std::allocator<noDefault>,
+              _Ty=noDefault,
+              _Objty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(458): note: 参见对正在编译的函数 模板 实例化“void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,>(_Ty *)”的引用
+          with
+          [
+              _Ty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(458): note: 参见对正在编译的函数 模板 实例化“void std::_Wrap_alloc<std::allocator<_Ty>>::construct<_Ty,>(_Ty *)”的引用
+          with
+          [
+              _Ty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(487): note: 参见对正在编译的函数 模板 实例化“void std::_Uninitialized_default_fill_n1<_FwdIt,std::_Diff,std::allocator<_Ty>>(_FwdIt,std::_Diff,std::_Wrap_alloc<std::allocator<_Ty>> &,std::false_type)”的引用
+          with
+          [
+              _FwdIt=noDefault *,
+              _Diff=unsigned int,
+              _Ty=noDefault
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(722): note: 参见对正在编译的函数 模板 实例化“void std::_Uninitialized_default_fill_n<noDefault*,unsigned int,std::allocator<_Ty>>(_FwdIt,std::_Diff,std::_Wrap_alloc<std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=noDefault,
+              _FwdIt=noDefault *,
+              _Diff=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(715): note: 编译类 模板 成员函数“std::vector<noDefault,std::allocator<_Ty>>::vector(unsigned int)”时
+          with
+          [
+              _Ty=noDefault
+          ]
+  e:\project\vs2015_project\7.1.2\7.1.2\7.1.2.cpp(201): note: 参见对正在编译的函数 模板 实例化“std::vector<noDefault,std::allocator<_Ty>>::vector(unsigned int)”的引用
+          with
+          [
+              _Ty=noDefault
+          ]
+  e:\project\vs2015_project\7.1.2\7.1.2\7.1.2.cpp(201): note: 参见对正在编译的类 模板 实例化“std::vector<noDefault,std::allocator<_Ty>>”的引用
+          with
+          [
+              _Ty=noDefault
+          ]

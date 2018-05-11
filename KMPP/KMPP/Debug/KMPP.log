@@ -1,0 +1,4 @@
+﻿  KMP.cpp
+e:\project\vs2015_project\kmpp\kmpp\kmp.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+  KMPP.vcxproj -> E:\project\VS2015_project\KMPP\Debug\KMPP.exe
+  KMPP.vcxproj -> E:\project\VS2015_project\KMPP\Debug\KMPP.pdb (Full PDB)
